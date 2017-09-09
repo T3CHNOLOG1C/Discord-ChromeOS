@@ -1,5 +1,5 @@
 # Discord-ChromeOS
-A ChromeOS app to load discord.
+A ChromeOS app to load the browser version of Discord.
 
 ## Instructions
 1. Unzip to destination of your choice.
